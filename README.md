@@ -12,3 +12,7 @@ but evenutally I hope to expand into other languages ie C++, etc.
 Maybe learn some LUA and create some basic WoW addons as a project. First things first though, 
 learning Python.
 
+10/7/18:
+Going through the different types of data in Python with the help of a Jupyter Notebook, and Anaconda.
+Wish I could pick this up and go through it faster.
+
