@@ -16,3 +16,12 @@ learning Python.
 Going through the different types of data in Python with the help of a Jupyter Notebook, and Anaconda.
 Wish I could pick this up and go through it faster.
 
+10/8/18:
+Found a couple of apps to help practice coding on my phone. Finally got through basic data types in Python.
+The "test" I took went ok, got pretty confused on the harder stuff like calling 3x+ nested dictionaries mixed
+with lists. Only to find out in the review answers that it's not typical of code to look like that (I guess it 
+was written all "in-line"?) in fact it is pretty bad and so it's only use is for practice. 
+
+So I don't feel too down about that... 
+Though from my initial answers I was on the right track mixing keys with indexing. 
+
