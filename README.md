@@ -25,3 +25,15 @@ was written all "in-line"?) in fact it is pretty bad and so it's only use is for
 So I don't feel too down about that... 
 Though from my initial answers I was on the right track mixing keys with indexing. 
 
+10/10/18:
+Getting pretty late here so I don't know if I'll read or watch more tutorials on Python. Didn't post yesterday
+because I'm wondering if it's more effective to just write stuff down when I have something "interesting" rather
+than "today I wrote 'hello world' for the 5000th time".
+
+Went over the basics of comparison operators yesterday, if anyone wonders.
+
+Don't know if I'll do anything tonight mostly because I'd like to re-read about the things I've learnt before 
+moving on. Though I feel like that may be what holds me back in a weird way.
+
+My mood isn't too great, not trying to put personal stuff in here but it's been pretty tiresome for me irl.
+
