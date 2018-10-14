@@ -37,3 +37,7 @@ moving on. Though I feel like that may be what holds me back in a weird way.
 
 My mood isn't too great, not trying to put personal stuff in here but it's been pretty tiresome for me irl.
 
+10/14/18:
+It's been a few days since I've posted. TBH didn't really keep up with learning Python while I've been 'absent'. No excuses,
+just sorta fell behind and busy with other issues. Started learning some more basics today (as I write this). Hope to get
+over this hump and start creating something. Theory is great but ultimately useless if not put into practice.
