@@ -41,3 +41,11 @@ My mood isn't too great, not trying to put personal stuff in here but it's been 
 It's been a few days since I've posted. TBH didn't really keep up with learning Python while I've been 'absent'. No excuses,
 just sorta fell behind and busy with other issues. Started learning some more basics today (as I write this). Hope to get
 over this hump and start creating something. Theory is great but ultimately useless if not put into practice.
+
+10/16/18:
+Was called in for jury duty yesterday so I didn't get much done other than starting to handwrite/type notes on what I've covered so far.
+Just now noticed the 'h' key on this laptop feels like it's sticking, not that the keyboard on this already felt like mush, fun times 
+ahead. 
+
+Going through loops and other basic/entry level functions now. Tuple unpacking seems to be a very important thing to get down. 
+
