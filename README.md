@@ -49,3 +49,5 @@ ahead.
 
 Going through loops and other basic/entry level functions now. Tuple unpacking seems to be a very important thing to get down. 
 
+10/20/18:
+Not been up to much, sadly. Midterms start this week, and I've been trying to get all normal assignments/projects done and out of the way ontop of thinking of switching majors and other boring university stuff. Still going through loops and other operators. Since I haven't had time to learn new stuff, I've been writing down notes and almost caught up to where I am tutorial wise. 
