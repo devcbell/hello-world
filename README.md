@@ -51,3 +51,8 @@ Going through loops and other basic/entry level functions now. Tuple unpacking s
 
 10/20/18:
 Not been up to much, sadly. Midterms start this week, and I've been trying to get all normal assignments/projects done and out of the way ontop of thinking of switching majors and other boring university stuff. Still going through loops and other operators. Since I haven't had time to learn new stuff, I've been writing down notes and almost caught up to where I am tutorial wise. 
+
+10/23/18:
+Finished with the next section in the Python course I'm in, but there's an assessment/check that I don't feel I'm ready for. I sorta remember and understand the concepts that were being taught but to be honest, without some sort of practice problems it seems very hard for me to keep up. I know I should probably write stuff by hand everyday or find a Python exercise site, but the ones I've found are still a bit too advanced for me (like I'm one chapter behind where they'd be useful). Kind of dispointed in this section more than anything, the first section was filled with practice problems and hands on stuff while this one seems empty. The next section seems better as it looks like that wraps up with my first "big" project. 
+
+Oh and midterms started for me this week - yay. On the upside though I'm sorta enjoying the very little coding I've learned and am thinking of switching to CS as a major, though it's not completely nessessary. The math I'm not really worried about since I'm already in a math/theory heavy major. 
