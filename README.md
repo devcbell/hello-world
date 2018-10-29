@@ -1,8 +1,8 @@
 # hello-world
 Going through the "Hello World" GitHub guide
 
-Hi, I'm D. Usualy go by DCBell (decibel) online. Just starting my github/coding journey. 
-Would like to become a real developer/engineer someday. Or at least understand what all this does.
+Hi, I'm just starting my github/coding journey. 
+Would like to become a developer/engineer. Or at least understand what all this does.
 
 10/6/18: 
 I'd like this space to just be a general diary, or scratchpad while I work on code.
@@ -56,3 +56,6 @@ Not been up to much, sadly. Midterms start this week, and I've been trying to ge
 Finished with the next section in the Python course I'm in, but there's an assessment/check that I don't feel I'm ready for. I sorta remember and understand the concepts that were being taught but to be honest, without some sort of practice problems it seems very hard for me to keep up. I know I should probably write stuff by hand everyday or find a Python exercise site, but the ones I've found are still a bit too advanced for me (like I'm one chapter behind where they'd be useful). Kind of dispointed in this section more than anything, the first section was filled with practice problems and hands on stuff while this one seems empty. The next section seems better as it looks like that wraps up with my first "big" project. 
 
 Oh and midterms started for me this week - yay. On the upside though I'm sorta enjoying the very little coding I've learned and am thinking of switching to CS as a major, though it's not completely nessessary. The math I'm not really worried about since I'm already in a math/theory heavy major. 
+
+10/29/28:
+Not dead! I'm still here toying away. I've actually written some very basic programs, none worth posting to GitHub. Been handwriting notes as I type lines and lines of code, explaining the different operators and how they're supposed to interact.
