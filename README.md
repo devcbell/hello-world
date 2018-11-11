@@ -57,5 +57,10 @@ Finished with the next section in the Python course I'm in, but there's an asses
 
 Oh and midterms started for me this week - yay. On the upside though I'm sorta enjoying the very little coding I've learned and am thinking of switching to CS as a major, though it's not completely nessessary. The math I'm not really worried about since I'm already in a math/theory heavy major. 
 
-10/29/28:
+10/29/18:
 Not dead! I'm still here toying away. I've actually written some very basic programs, none worth posting to GitHub. Been handwriting notes as I type lines and lines of code, explaining the different operators and how they're supposed to interact.
+
+11/11/18:
+Crawling through things - currently on arrays/vectors. A few more simple programs and projects under my belt. Found out I'm free to switch majors without any excess credit hours, thus no surcharge rates. Will be thinking it over. Been very busy; all my classes are in the home stretch for this semmester and thus that equates to finals, and lots of last minute assignments. Because lets face it, nobody wants to grade anything past the middle of November, except for the mandatory Finals - which for some reason the testing center for the college has everyone doing them in the span of 2 business days. I say business days because they're not going to be open longer to accomidate the several thousands students that need to take the exams in that timeframe. In reality it's more like 12 hours on one day and 19 on the other.
+
+I've sort of transitioned into typing notes instead of handwriting them. I've been including them as comments as I work on assignments and projects. A lot of the time it seems like half the lines of code are comments and explainations rather than "working" code. Presently all my stuff is being saved to the same folder and more or less reads like a book. I wonder if I could simply copy/paste what's written to a notepad editor to have text copies without having to open up an IDE everytime I want to read through them. Probably.
